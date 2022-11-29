@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kicn8/klQxmisKEwSq1+2pCkeGRpLT9nljgxnJ5FvuixDDcufescdAV5Ow823I6Dd/nwYxssoPIGfhBFOtYBHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\tour3\\TaskForTourTree\\Models\\Models.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.0.8:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
