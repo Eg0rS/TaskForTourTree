@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\bin\Release\Models.dll
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\bin\Release\Models.pdb
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\obj\Release\Models.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\obj\Release\Models.dll
+C:\Users\Администратор\Desktop\olimp\Tour_3\Models\obj\Release\Models.pdb
